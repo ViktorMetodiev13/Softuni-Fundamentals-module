@@ -9,4 +9,4 @@ function dayofWeek(num) {
         console.log("Invalid day!");
     }
 }
-dayofWeek(1)
+dayofWeek(2)
